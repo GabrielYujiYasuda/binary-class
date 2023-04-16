@@ -1,2 +1,2 @@
-# binaryClass
+# binary-class
  
